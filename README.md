@@ -1,1 +1,1 @@
-TinDog Starting Files
+A simple Bootstrap-HTML-CSS frontpage
